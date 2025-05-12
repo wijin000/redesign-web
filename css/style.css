@@ -963,6 +963,15 @@ footer {
 
 @media (max-width: 999px) {
 
+    .mySwiper {
+        height: auto;
+    }
+
+    .mySwiper img{
+        max-width: 286px;
+        width: 100%;
+    }
+
     .main_text {
         position: static;
         padding: 40px 10%;
@@ -1237,10 +1246,6 @@ footer {
 
     .con1_text p {
         font-size: 16px;
-    }
-
-    .mySwiper {
-        height: auto;
     }
 
     .content1{
